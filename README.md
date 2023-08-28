@@ -5,16 +5,16 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/css.png" alt="CSS" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/html.png" alt="HTML" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/000000/database.png" alt="Database" width="48" height="48">
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="48" height="48">
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/css.png" alt="CSS" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/html.png" alt="HTML" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/express.png" alt="Express.js" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React.js" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/mysql.png" alt="MySQL" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/color/96/000000/database.png" alt="Database" style="margin: 0 15px; border-radius: 50%;">
+  <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="GitHub" style="margin: 0 15px; border-radius: 50%;">
 </p>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
