@@ -12,9 +12,9 @@
 
 <p align="center" >
     <a href="https://www.codewars.com/users/ham-oudi">
-      <img src="https://github.r2v.ch/codewars?user=ham-oudi&theme=gradient" />
+      <img src="https://www.codewars.com/users/ham-oudi/badges/large" alt="Codewars Profile"" />
     </a>
-    <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=ham-oudi&badge&colormode=dark_mode"/>
+   
 </p>
 
 <h2 align="center">Connect with Me</h2>
