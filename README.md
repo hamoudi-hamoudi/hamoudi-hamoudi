@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Mohammed! 👋</h1>
 <hr>
-
-<h2> About Me<h2/>
-  <p> I'm on a relentless coding adventure, fueled by a fervor for innovation and a thirst for mastering new tech.🚀 Currently, I'm diving deep into the fascinating realm of machine learning, where I'm orchestrating code and data to teach machines how to perceive and comprehend the world. Join me as I transform lines of code into pure magic! ✨</p>
 </div>
+<h2 align="center"> About Me<h2/>
+  <p> I'm on a exciting coding adventure, fueled by a enthusiasm for innovation and a thirst for mastering new tech.🚀 Currently, I'm diving deep into the fascinating realm of programing, where I'm orchestrating code and data to teach machines how to perceive and comprehend the world. Join me as I transform lines of code into pure magic! ✨</p>
+
 
 <h2 align="center">Skills</h2>
 <p align="center">
