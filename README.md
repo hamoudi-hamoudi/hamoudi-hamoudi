@@ -6,7 +6,7 @@
 <h2 align="center">Skills</h2>
 <p align="center">
   <span>
-    <img src="https://skillicons.dev/icons?i=css,discord,express,firebase,github,html,js,materialui,mysql,nodejs,postman,react,ts,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,discord,express,firebase,github,html,js,materialui,mysql,nodejs,postman,react,ts,vite,vscode&perline=5" />
   </span>
 </p>
 <h2 align="center">Connect with Me</h2>
