@@ -10,11 +10,11 @@
   </span>
 </p>
 
+<h3 align="center">Codewars</h3>
 <p align="center" >
     <a href="https://www.codewars.com/users/ham-oudi">
       <img src="https://www.codewars.com/users/ham-oudi/badges/large" alt="Codewars Profile"" />
     </a>
-   
 </p>
 
 <h2 align="center">Connect with Me</h2>
