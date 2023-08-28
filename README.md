@@ -5,9 +5,9 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <a  onclick="return false">
+  <span>
     <img src="https://skillicons.dev/icons?i=css,discord,express,firebase,github,html,js,materialui,mysql,nodejs,postman,react,ts,vite,vscode" />
-  </a>
+  </span>
 </p>
 <h2 align="center">Connect with Me</h2>
 <p align="center">
