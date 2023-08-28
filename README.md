@@ -5,7 +5,7 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <a  style='pointer-events: none'>
+  <a  onclick="return false">
     <img src="https://skillicons.dev/icons?i=css,discord,express,firebase,github,html,js,materialui,mysql,nodejs,postman,react,ts,vite,vscode" />
   </a>
 </p>
