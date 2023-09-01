@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Mohammed! 👋</h1>
 <hr>
 </div>
-<h2 align="center"> About Me<h2/>
+<h2 align="center"> About Me</h2>
   <p> I'm on a exciting coding adventure, fueled by a enthusiasm for innovation and a thirst for mastering new tech.🚀 Currently, I'm diving deep into the fascinating realm of programing, I'm keen about new technologies , i don't say no to challenges. I get the job done .Join me as I transform lines of code into pure magic! ✨</p>
 <p>My focus is on making designs that work well on all devices. I use a combination of JavaScript tools like React and NodeJS, along with Typescript and SQL.  This helps me create custom solutions for each business I collaborate with.🚀</p>
 
