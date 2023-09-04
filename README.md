@@ -3,9 +3,9 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-  <p> I'm on a exciting coding adventure, fueled by a enthusiasm for innovation and a thirst for mastering new tech.🚀 Currently, I'm diving deep into the fascinating realm of programing, I'm keen about new technologies , i don't say no to challenges. I get the job done .Join me as I transform lines of code into pure magic! ✨</p>
-<p>My focus is on making designs that work well on all devices. I use a combination of JavaScript tools like React and NodeJS, along with Typescript and SQL.  This helps me create custom solutions for each business I collaborate with.🚀</p>
-
+  <p> Im starting my new journey in the world of coding at HackYourFuture, driven by my passion for innovation and an insatiable desire to master cutting-edge technologies. 
+My primary focus revolves around crafting responsive designs that seamlessly adapt to all devices. I harness a potent toolkit of JavaScript technologies such as React and NodeJS, complemented by the power of Typescript and SQL. 🚀</p>
+ 
 
 <h2 align="center">Skills</h2>
 <p align="center">
