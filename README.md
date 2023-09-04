@@ -3,9 +3,7 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-  <p> Im starting my journey in the world of coding ,eager to apply my skills for creating user-friendly websites
-that deliver seamless experiences.</p>
-    <p> I harness a potent toolkit of JavaScript technologies such as React and NodeJS, complemented by the power of Typescript and SQL. 🚀</p>
+<p>I'm excited to use my skills to create websites that are easy to use and enjoyable. I work with JavaScript technologies like React and NodeJS, and I'm also familiar with TypeScript and SQL. 🚀</p>
  
 
 <h2 align="center">Skills</h2>
