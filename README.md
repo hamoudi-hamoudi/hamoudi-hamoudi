@@ -3,8 +3,9 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-  <p> Im starting my new journey in the world of coding , driven by my passion for innovation and an insatiable desire to master cutting-edge technologies. 
-My primary focus revolves around crafting responsive designs that seamlessly adapt to all devices. I harness a potent toolkit of JavaScript technologies such as React and NodeJS, complemented by the power of Typescript and SQL. 🚀</p>
+  <p> Im starting my journey in the world of coding ,eager to apply my skills for creating user-friendly websites
+that deliver seamless experiences.</p>
+    <p> I harness a potent toolkit of JavaScript technologies such as React and NodeJS, complemented by the power of Typescript and SQL. 🚀</p>
  
 
 <h2 align="center">Skills</h2>
