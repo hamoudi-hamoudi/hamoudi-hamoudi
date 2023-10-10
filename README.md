@@ -3,7 +3,7 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-<p>I'm excited to use my skills to create websites that are easy to use and enjoyable. I work with JavaScript technologies like React and NodeJS, and I'm also familiar with TypeScript and SQL. 🚀</p>
+<p>Passionate JS developer , React.js , Node.js and more . Ready to collaborate. Let's connect and build something great together! 🚀</p>
  
 
 <h2 align="center">Skills</h2>
