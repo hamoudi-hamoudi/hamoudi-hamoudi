@@ -3,7 +3,7 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-<p>I’m a tech-driven professional with a background in web development and a passion for Salesforce. 🚀</p>
+<p align="center"> I’m a tech-driven professional with a background in web development and a passion for Salesforce. 🚀</p>
  
 
 <h2 align="center">Skills</h2>
