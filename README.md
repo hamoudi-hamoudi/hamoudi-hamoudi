@@ -3,7 +3,7 @@
 <hr>
 </div>
 <h2 align="center"> About Me</h2>
-<p>Passionate JS developer , React.js , Node.js and more . Ready to collaborate. Let's connect and build something great together! 🚀</p>
+<p>I’m a tech-driven professional with a background in web development and a passion for Salesforce. 🚀</p>
  
 
 <h2 align="center">Skills</h2>
